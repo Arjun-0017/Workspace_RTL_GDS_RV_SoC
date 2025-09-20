@@ -3,10 +3,12 @@
 
 ### *System Requirements*
 #### For Widows User
-- 6 GB RAM
-- 50 GB HDD
+- 6 GB RAM, 50 GB HDD
 - Ubuntu 20.04 or higher
 - 4 vCPU
+- Install VirtualBox
+  Virtual Machine Link: https://www.virtualbox.org/wiki/Downloads
+  [Virtual Machine Link](https://www.virtualbox.org/wiki/Downloads)
 
 #### For Linux (Ubuntu) User
 - Directly start with installing the opensource tools
