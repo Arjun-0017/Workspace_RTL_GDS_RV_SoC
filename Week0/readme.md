@@ -121,13 +121,8 @@ Download Tarball from [https://sourceforge.net/projects/ngspice/files/](https://
 
 ## Tools Installed
 - Iverilog : Done
-- gtkwave : Done
-- OpenSTA : Done
-- yosys   : Done
-- magic   : Done
-- ngspice : Done
----
-
-
-# Install dependencies
-pip install -r requirements.txt
+- gtkwave  : Done
+- OpenSTA  : Done
+- yosys    : Done
+- magic    : Done
+- ngspice  : Done
