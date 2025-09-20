@@ -24,7 +24,7 @@
    $ iverilog -v
 ```
 <p align="center">
-  <img src="iverilog.png" alt="iverilog" width="600"/>
+  <img src="iverilog.png" alt="iverilog" width="800"/>
 </p>
 
 #### Install gtkwave
@@ -34,7 +34,7 @@
    $ gtkwave
 ```
 <p align="center">
-  <img src="gtkwave.png" alt="gtkwave" width="1000"/>
+  <img src="gtkwave.png" alt="gtkwave" width="800"/>
 </p>
 
 #### Install yosys
@@ -52,7 +52,7 @@
    $ sudo make install 
 ```
 <p align="center">
-  <img src="yosys.png" alt="yosys" width="1000"/>
+  <img src="yosys.png" alt="yosys" width="800"/>
 </p>
 
 - [Overview](#overview)
