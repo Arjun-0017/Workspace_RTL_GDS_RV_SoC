@@ -7,7 +7,7 @@
 - Ubuntu 20.04 or higher
 - 4 vCPU
 - Install VirtualBox
-  Virtual Machine Link: https://www.virtualbox.org/wiki/Downloads
+  **Virtual Machine Link:**
   [Virtual Machine Link](https://www.virtualbox.org/wiki/Downloads)
 
 #### For Linux (Ubuntu) User
