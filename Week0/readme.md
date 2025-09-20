@@ -1,5 +1,5 @@
 # RISC-V SoC Tapeout Program - RTL-to-GDS
-## Week 0: Tools Installation
+## Week 0: Setup and Tools Installation
 
 ### *System Requirements*
 #### For Widows User
