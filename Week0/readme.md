@@ -126,3 +126,12 @@ Download Tarball from [https://sourceforge.net/projects/ngspice/files/](https://
 - yosys    : Done
 - magic    : Done
 - ngspice  : Done
+
+## Learnings
+- Iverilog : Used for HDL(verilog) simulation
+- gtkwave  : Used for viewing waveform, and HDL verification
+- OpenSTA  : Open source tools for performing static timing analysis
+- yosys    : Used for Logic synthesis
+- magic    : Used for designing and verifying integrated circuit (IC) layouts
+- ngspice  : It is an open-source circuit simulator used for analog and mixed-signal circuit simulation
+
