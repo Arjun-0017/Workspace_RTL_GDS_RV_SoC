@@ -119,14 +119,12 @@ Download Tarball from [https://sourceforge.net/projects/ngspice/files/](https://
 ---
 
 ## Tools Installed
-<p align="center>"
 - Iverilog : Done
 - gtkwave : Done
 - OpenSTA : Done
 - yosys   : Done
 - magic   : Done
 - ngspice : Done
-</p>
 ---
 
 ## Installation
