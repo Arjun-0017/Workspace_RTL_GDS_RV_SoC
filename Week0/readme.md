@@ -55,6 +55,15 @@
   <img src="yosys.png" alt="yosys" width="800"/>
 </p>
 
+
+#### Install OpenSTA
+```bash
+   $ sta  ## this will run opensta in terminal
+```
+<p align="center">
+  <img src="sta.png" alt="sta" width="800"/>
+</p>
+
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
