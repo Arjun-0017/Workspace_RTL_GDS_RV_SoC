@@ -27,6 +27,15 @@
   <img src="iverilog.png" alt="iverilog" width="600"/>
 </p>
 
+#### Install gtkwave
+```bash
+   $ sudo apt-get update
+   $ sudo apt install gtkwave
+   $ gtkwave
+```
+<p align="center">
+  <img src="iverilog.png" alt="iverilog" width="600"/>
+</p>
 
 - [Overview](#overview)
 - [Features](#features)
