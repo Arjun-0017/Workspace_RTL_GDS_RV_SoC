@@ -51,6 +51,10 @@
    $ make
    $ sudo make install 
 ```
+<p align="center">
+  <img src="yosys.png" alt="yosys" width="1000"/>
+</p>
+
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
