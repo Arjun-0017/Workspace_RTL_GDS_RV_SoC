@@ -67,6 +67,26 @@ Follow this link for complete procedure to install OpenSTA
   <img src="sta.png" alt="sta" width="800"/>
 </p>
 
+#### Install ngspice
+Download Tarball from [https://sourceforge.net/projects/ngspice/files/](https://sourceforge.net/projects/ngspice/files/).
+
+```bash
+   $ tar -zxvf ngspice-45.2.tar.gz
+   $ cd ngspice-45.2/
+   $ mkdir release
+   $ cd release
+   $ ../configure  --with-x --with-readline=yes --disable-debug
+
+   //not found xaw library
+   $ sudo apt install libxaw7-dev libx11-dev libxext-dev libreadline-dev
+   //again run 
+   $ ../configure  --with-x --with-readline=yes --disable-debug
+
+   $ ../configure --with-x --with-readline=yes --disable-debug --prefix=/usr/local
+   $ make
+   $ sudo make install
+```
+
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
