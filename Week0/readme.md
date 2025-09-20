@@ -78,9 +78,9 @@ Download Tarball from [https://sourceforge.net/projects/ngspice/files/](https://
    $ cd release
    $ ../configure  --with-x --with-readline=yes --disable-debug
 
-   //not found xaw library
+   ## not found xaw library
    $ sudo apt install libxaw7-dev libx11-dev libxext-dev libreadline-dev
-   //again run 
+   ## run again
    $ ../configure  --with-x --with-readline=yes --disable-debug
 
    $ ../configure --with-x --with-readline=yes --disable-debug --prefix=/usr/local
