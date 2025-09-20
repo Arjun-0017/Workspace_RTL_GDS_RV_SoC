@@ -22,4 +22,4 @@
 --------------------------------------
 ## Acknowledgement
 
-Special thanks to [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/)
+Special thanks to [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/) and team [VSD](https://www.linkedin.com/company/vlsi-system-design/) for this opportunity.
