@@ -26,5 +26,5 @@ Special thanks to [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisyst
 
 --------------------------------------
 <div align="center">
-<b>Arjun Saibya</b>
+<b>Author : <a href="https://www.linkedin.com/in/arjun-saibya/" target="_blank">Arjun Saibya</a></b>
 </div>
