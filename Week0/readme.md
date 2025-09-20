@@ -24,7 +24,7 @@
    $ iverilog -v
 ```
 <p align="center">
-  <img src="iverilog.png" alt="iverilog" height="400" width="800"/>
+  <img src="iverilog.png" alt="iverilog" height="500" width="800"/>
 </p>
 
 #### Install gtkwave
