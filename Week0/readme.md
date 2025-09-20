@@ -24,7 +24,7 @@
    $ iverilog -v
 ```
 <p align="center">
-  <img src="iverilog.png" alt="iverilog" height="500" width="800"/>
+  <img src="assets/iverilog.png" alt="iverilog" height="500" width="800"/>
 </p>
 
 #### Install gtkwave
@@ -34,7 +34,7 @@
    $ gtkwave
 ```
 <p align="center">
-  <img src="gtkwave.png" alt="gtkwave" height="400" width="800"/>
+  <img src="assets/gtkwave.png" alt="gtkwave" height="400" width="800"/>
 </p>
 
 #### Install yosys
@@ -53,7 +53,7 @@
    $ yosys
 ```
 <p align="center">
-  <img src="yosys.png" alt="yosys" height="400" width="800"/>
+  <img src="assets/yosys.png" alt="yosys" height="400" width="800"/>
 </p>
 
 
@@ -65,7 +65,7 @@ Follow this link for complete procedure to install OpenSTA
    $ sta  ## this will run opensta in terminal
 ```
 <p align="center">
-  <img src="sta.png" alt="sta" height="400" width="800"/>
+  <img src="assets/sta.png" alt="sta" height="400" width="800"/>
 </p>
 
 #### Install ngspice
@@ -89,7 +89,7 @@ Download Tarball from [https://sourceforge.net/projects/ngspice/files/](https://
    $ ngspice
 ```
 <p align="center">
-  <img src="ngspice_new.png" alt="ngspice" height="400" width="800"/>
+  <img src="assets/ngspice_new.png" alt="ngspice" height="400" width="800"/>
 </p>
 
 #### Install magic
@@ -114,7 +114,7 @@ Download Tarball from [https://sourceforge.net/projects/ngspice/files/](https://
 
 ```
 <p align="center">
-  <img src="magic.png" alt="magic" height="400" width="800"/>
+  <img src="assets/magic.png" alt="magic" height="400" width="800"/>
 </p>
 
 
