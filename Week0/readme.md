@@ -1,7 +1,7 @@
 # RISC-V SoC Tapeout Program - RTL-to-GDS
 ## Week 0: Tools Installation
------------------------------------------------------------------
-### System Requirements
+
+### *System Requirements*
 
 **Short Description:** A one-liner about what your project does.
 
