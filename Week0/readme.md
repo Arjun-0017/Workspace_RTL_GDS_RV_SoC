@@ -7,8 +7,9 @@
 - Ubuntu 20.04 or higher
 - 4 vCPU
 - Install VirtualBox
+
   **Virtual Machine Link:**
-  [Virtual Machine Link](https://www.virtualbox.org/wiki/Downloads)
+  [Oracle VM](https://www.virtualbox.org/wiki/Downloads)
 
 #### For Linux (Ubuntu) User
 - Directly start with installing the opensource tools
