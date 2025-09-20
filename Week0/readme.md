@@ -1,4 +1,5 @@
 # RISC-V SoC Tapeout Program - RTL-to-GDS
+---
 ## Week 0: System Setup and Tools Installation
 
 ### *System Requirements*
@@ -15,7 +16,8 @@
 - Directly start with installing the opensource tools
 ---
 
-### Tools installation
+### *Tools installation*
+
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
