@@ -1,5 +1,5 @@
-  # RISC-V SoC Tapeout Program - RTL-to-GDS
-****Tools installation****
+# RISC-V SoC Tapeout Program - RTL-to-GDS
+## Tools installation
 
 # Project Name
 
