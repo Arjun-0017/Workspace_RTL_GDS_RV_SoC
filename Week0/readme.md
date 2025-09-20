@@ -8,6 +8,8 @@
 - Ubuntu 20.04 or higher
 - 4 vCPU
 
+### For Linux User
+Directly start with installing the opensource tools
 ---
 
 ## Table of Contents
