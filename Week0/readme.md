@@ -1,5 +1,5 @@
 # RISC-V SoC Tapeout Program - RTL-to-GDS
-## Week 0: Setup and Tools Installation
+## Week 0: System Setup and Tools Installation
 
 ### *System Requirements*
 #### For Widows User
@@ -15,7 +15,7 @@
 - Directly start with installing the opensource tools
 ---
 
-### iverilog installation
+### Tools installation
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
