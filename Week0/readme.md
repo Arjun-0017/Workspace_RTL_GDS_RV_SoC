@@ -50,7 +50,7 @@
    $ make config-gcc
    $ make
    $ sudo make install
-   $ ngspice
+   $ yosys
 ```
 <p align="center">
   <img src="yosys.png" alt="yosys" width="800"/>
@@ -86,6 +86,7 @@ Download Tarball from [https://sourceforge.net/projects/ngspice/files/](https://
    $ ../configure --with-x --with-readline=yes --disable-debug --prefix=/usr/local
    $ make
    $ sudo make install
+   $ ngspice
 ```
 <p align="center">
   <img src="ngspice_new.png" alt="ngspice" width="800"/>
