@@ -116,7 +116,8 @@ Download Tarball from [https://sourceforge.net/projects/ngspice/files/](https://
 <p align="center">
   <img src="magic.png" alt="magic" height="400" width="800"/>
 </p>
----
+
+
 
 ## Tools Installed
 - Iverilog : Done
@@ -127,18 +128,6 @@ Download Tarball from [https://sourceforge.net/projects/ngspice/files/](https://
 - ngspice : Done
 ---
 
-## Installation
-
-### Prerequisites
-- Python >= 3.8
-- Docker (if needed)
-- Other libraries: NumPy, Pandas, etc.
-
-### Steps
-```bash
-# Clone the repository
-git clone https://github.com/username/projectname.git
-cd projectname
 
 # Install dependencies
 pip install -r requirements.txt
