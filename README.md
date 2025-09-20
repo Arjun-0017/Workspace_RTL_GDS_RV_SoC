@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  INDIA RISC-V SoC Tapeout Program a great initiative by <a href="https://www.vlsisystemdesign.com/" target="_blank">VLSI System Design</a>
+  INDIA RISC-V SoC Tapeout Program a great initiative by <a href="https://www.vlsisystemdesign.com/" target="_blank">VLSI System Design</a>.
   
  
   My objective is to get practical exposure on Complete flow of a chip design i.e RTL-to-GDS and finally Chip Fabrication, form this program.
