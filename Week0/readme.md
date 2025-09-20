@@ -17,6 +17,11 @@
 ---
 
 ### *Tools installation*
+#### iverilog installation
+```bash
+   sudo apt-get update
+   sudo apt-get install iverilog 
+
 
 - [Overview](#overview)
 - [Features](#features)
