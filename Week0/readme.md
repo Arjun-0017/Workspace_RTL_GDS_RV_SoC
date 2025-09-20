@@ -57,6 +57,8 @@
 
 
 #### Install OpenSTA
+Follow the procedure given here for installing OpenSTA
+[https://github.com/The-OpenROAD-Project/OpenSTA](https://github.com/The-OpenROAD-Project/OpenSTA)
 ```bash
    $ sta  ## this will run opensta in terminal
 ```
