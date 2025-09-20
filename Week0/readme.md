@@ -109,35 +109,24 @@ Download Tarball from [https://sourceforge.net/projects/ngspice/files/](https://
    $ cd magic
    $ ./configure
    $ make
-   $ make install 
+   $ make install
+   $ magic
 
 ```
 <p align="center">
   <img src="magic.png" alt="magic" width="800"/>
 </p>
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Math & Formulas](#math--formulas)
-- [Tables](#tables)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
-## Overview
-This project is designed to **solve XYZ problem**.  
-It is useful for developers, researchers, or hobbyists who want to **[benefit]**.
-
----
-
-## Features
-- Feature 1: Description
-- Feature 2: Description
-- Feature 3: Description
-
+## Tools Installed
+<p align="center>"
+- Iverilog : Done
+- gtkwave : Done
+- OpenSTA : Done
+- yosys   : Done
+- magic   : Done
+- ngspice : Done
+</p>
 ---
 
 ## Installation
