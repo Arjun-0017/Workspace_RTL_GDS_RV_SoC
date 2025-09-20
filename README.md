@@ -13,6 +13,5 @@
   
   My objective is to get practical exposure on Complete flow of a chip design i.e RTL-to-GDS and finally Chip Fabrication form this program.
   
-  As the program progresses, I'll update the this repo with my latest key takeaways from this program.
+  As the program progresses, I'll keep updating this repo with my latest key takeaways from this program.
 </div>
-## Author
