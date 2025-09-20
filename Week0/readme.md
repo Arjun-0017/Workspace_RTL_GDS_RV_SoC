@@ -49,7 +49,8 @@
      libboost-python-dev libboost-filesystem-dev zlib1g-dev
    $ make config-gcc
    $ make
-   $ sudo make install 
+   $ sudo make install
+   $ ngspice
 ```
 <p align="center">
   <img src="yosys.png" alt="yosys" width="800"/>
