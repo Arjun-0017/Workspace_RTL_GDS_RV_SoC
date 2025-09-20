@@ -23,8 +23,11 @@
    $ sudo apt-get install iverilog 
 ```
 
-     ![iverilog](iverilog.png)
 
+![iverilog](iverilog.png)
+<p align="center">
+  <img src="iverilog.png" alt="iverilog" width="400"/>
+</p>
 
 
 - [Overview](#overview)
