@@ -34,7 +34,7 @@
    $ gtkwave
 ```
 <p align="center">
-  <img src="iverilog.png" alt="iverilog" width="600"/>
+  <img src="gtkwave.png" alt="gtkwave" width="600"/>
 </p>
 
 - [Overview](#overview)
