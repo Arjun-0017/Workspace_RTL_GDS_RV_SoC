@@ -86,6 +86,9 @@ Download Tarball from [https://sourceforge.net/projects/ngspice/files/](https://
    $ make
    $ sudo make install
 ```
+<p align="center">
+  <img src="ngspice.png" alt="ngspice" width="800"/>
+</p>
 
 - [Overview](#overview)
 - [Features](#features)
