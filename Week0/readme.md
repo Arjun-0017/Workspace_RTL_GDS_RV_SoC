@@ -1,7 +1,6 @@
 # RISC-V SoC Tapeout Program - RTL-to-GDS
-## Tools installation
-
-# Project Name
+## Week 0: Tools installation
+### System Requirements
 
 **Short Description:** A one-liner about what your project does.
 
