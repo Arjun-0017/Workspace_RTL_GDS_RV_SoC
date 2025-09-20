@@ -21,3 +21,5 @@
 
 --------------------------------------
 ## Acknowledgement
+
+Special thanks to [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/)
