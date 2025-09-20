@@ -39,7 +39,7 @@
 
 #### Install yosys
 ```bash
-   $ sudo apt install make  ## If make is not installed please install it
+   $ sudo apt install make  ## if make is already installed then skip this command
    $ sudo apt-get update
    $ git clone https://github.com/YosysHQ/yosys.git
    $ cd yosys
