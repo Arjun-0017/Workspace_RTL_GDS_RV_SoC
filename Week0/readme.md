@@ -15,7 +15,7 @@
 - Directly start with installing the opensource tools
 ---
 
-## Table of Contents
+### iverilog installation
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
