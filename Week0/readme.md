@@ -26,7 +26,7 @@
 
 ![iverilog](iverilog.png)
 <p align="center">
-  <img src="iverilog.png" alt="iverilog" width="1000"/>
+  <img src="iverilog.png" alt="iverilog" width="600"/>
 </p>
 
 
