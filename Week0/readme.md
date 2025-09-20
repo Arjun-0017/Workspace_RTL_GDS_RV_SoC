@@ -20,7 +20,8 @@
 #### Install iverilog
 ```bash
    $ sudo apt-get update
-   $ sudo apt-get install iverilog 
+   $ sudo apt-get install iverilog
+   $ iverilog -v
 ```
 <p align="center">
   <img src="iverilog.png" alt="iverilog" width="600"/>
