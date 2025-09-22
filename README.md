@@ -1,4 +1,4 @@
-# Workspace_RTL_GDS_RV_SoC
+# RTL_GDS RISC-V SoC Tapeout Program
 
 <div align="center">
 <b>This repository contains documentation of my weekly progress for INDIA RISC-V SoC Tapeout Program.</b>
